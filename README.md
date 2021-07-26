@@ -1,5 +1,6 @@
 # DynamoDB Admin
 [![Docker](https://github.com/JazzXP/dynamodb-admin-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/JazzXP/dynamodb-admin-docker/actions/workflows/docker-publish.yml)
+
 Built because the current official docker image is broken
 
 ## Running
